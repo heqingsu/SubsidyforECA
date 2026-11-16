@@ -1,0 +1,5 @@
+﻿regime,government,adjusted_index_million_cny,subsidy,price,lam,omega,rankings_identical
+No monetary recognition,0.13218605380903492,-0.20695573698584763,0.0,6250.0,0.5,0.0,True
+Information value only,0.18619511586561596,0.04004502909589541,500.0,7750.0,0.5,0.0,True
+Institutional recognition (baseline),0.34209096330295363,2.6154363334306967,11250.0,27250.0,0.5,0.0,True
+Partial recognition (eta=0.4),0.2352417846441241,1.2466587200109778,0.0,13750.0,0.5,0.0,True

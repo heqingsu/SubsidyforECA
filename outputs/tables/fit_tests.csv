@@ -1,0 +1,5 @@
+﻿input,law,D,p
+Annual electricity (log scale),Normal,0.0408,0.88
+Eligibility fraction,"U(0.40,0.90)",0.0429,0.84
+Unit value,"U(40,80)",0.0378,0.927
+Implementation cost,"U(2,000,6,000)",0.0389,0.911

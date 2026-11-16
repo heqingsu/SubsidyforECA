@@ -1,0 +1,6 @@
+﻿design,subsidy,price,configuration,participation,government,method
+Joint choice (config + price),11250.0,27250.0,t1h_g8,0.413553297008007,0.34209096330295363,250 CNY grid
+Resolution fixed at finest,11250.0,27250.0,t1h_g8,0.413553297008007,0.34209096330295363,250 CNY grid
+Resolution fixed at coarsest,0.0,6250.0,t24h_g1,0.2643721076180692,0.1321860538090345,250 CNY grid
+"Price fixed at 25,500 (budget boundary)",11441.0,25500.0,t1h_g8,0.43700318044456166,0.35352940744809436,1 CNY bisection on the budget boundary
+"Price fixed at 25,500 (250 CNY grid)",11250.0,25500.0,t1h_g8,0.43465780424292466,0.35320878880971696,250 CNY grid

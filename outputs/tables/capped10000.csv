@@ -1,0 +1,2 @@
+﻿scenario,configuration,subsidy,price,effective_price,participation,profit,spending,benefit,withdrawal,withdrawal_profit,provider,government,exceed_risk,budget_feasible,response_count
+capped_10000,t1h_g8,10000.0,27000.0,17000.0,0.401815152639925,1945938.2019174935,803630.30527985,3846526.3274933267,0.2982095595341132,1386467.99914611,1.0194643723509524,0.34143109614172296,2.2283223180341446e-05,True,1
